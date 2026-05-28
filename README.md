@@ -10,7 +10,9 @@ Practical approaches to task-based learning in programming.
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/Mansanpally-Mayank/"><a href="https://www.instagram.com/_mayank45__/">
+<a href="https://www.linkedin.com/in/Mansanpally-Mayank/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a><a href="https://www.instagram.com/_mayank45__/"><img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+</a>
+<br><br>
 
 
 # ⚡ Github Stats
